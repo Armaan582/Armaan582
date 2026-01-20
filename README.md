@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Armaanjot Singh  
+# 👋 Hi, I'm Armaanjot Singh  
 An aspiring Full Stack Web Developer passionate about building modern, responsive web applications.
 
 # 💫 About Me:
