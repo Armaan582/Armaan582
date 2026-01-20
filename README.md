@@ -1,117 +1,27 @@
-<!-- Header Section with Typing Animation -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D36BCF7%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi,%2BI%27m%2BArmaanjot%2BSingh%3BAspiring%2BFull%2BStack%2BDeveloper%3BBuilding%2BDigital%2BExperiences" alt="Typing SVG" />
-</div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/gist/jsturgis/3b19447b304616f18657/raw/a0c1a696494b20521aa72dae768caa84fb906d78/code.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px; opacity: 0.8;" alt="Coding GIF"/>
-</div>
-
-<!-- Introduction & About Me -->
-
-<h1 align="center">👨‍💻 About Me</h1>
-
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/Armaan582">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DArmaan582%26style%3Dfor-the-badge%26color%3Dblueviolet%26label%3DPROFILE%2BVIEWS" alt="Profile views" />
-</a>
-</p>
-
-<p align="center">
-I am a passionate <strong>Computer Science Engineering Student (2024–2028)</strong> at <strong>Chandigarh University</strong>, based in <strong>Punjab, India</strong>. My focus lies in building scalable, real-time web applications and exploring modern full-stack technologies. I thrive on solving complex problems and turning creative ideas into functional digital products.
-</p>
-
-<!-- Tech Stack Section -->
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<div align="center">
-<p>Languages, Frameworks, and Tools I use to build my projects:</p>
-
-<a href="https://www.google.com/search?q=https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,html,css,react,nodejs,express,mongodb,git,github,vscode,postman,vercel,cloudflare,workers%26perline%3D7%26theme%3Ddark" />
-</a>
+# 💫 About Me:
+🔭 I’m currently working on building modern, responsive full stack web applications and improving my real-world project experience.<br><br>👯 I’m looking to collaborate on full stack web projects, open-source contributions, and developer-focused tools.<br><br>🤝 I’m looking for help with learning scalable backend architecture, system design fundamentals, and best practices in production-ready applications.<br><br>🌱 I’m currently learning advanced React patterns, backend development with Node.js & Express, and cloud deployment workflows.<br><br>💬 Ask me about JavaScript, React, frontend UI development, basic backend integration, and real-time web applications.<br><br>⚡ Fun fact: I enjoy turning simple ideas into functional web products and constantly refining UI and performance.<br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Armaan2006a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/armaanjot-singh-cse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@A_4_Armaan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:armaanjots215@gmail.com) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Armaan582&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Armaan582&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan582&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Armaan582&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Render badge manually as it's not always in skillicons packs -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Render-46E3B7%3Fstyle%3Dfor-the-badge%26logo%3Drender%26logoColor%3Dwhite" height="30" alt="Render" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Featured Projects -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Armaan582&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2 align="center">💻 Featured Projects</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=Armaan582&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Project
-
-Description
-
-Tech Stack
-
-💬 CHATIFY
-
-A Real-Time Chat Application enabling instant messaging with low latency. Features room-based chats and active status indicators.
-
-Socket.io Node.js Express
-
-🚀 RISE
-
-An AI Personal Productivity Assistant designed with an offline-first approach. Helps manage tasks and schedules securely on the local device.
-
-JavaScript localStorage AI Integration
-
-<!-- Achievements -->
-
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Finalist-CosmoHacks%2725-FFD700%3Fstyle%3Dfor-the-badge%26logo%3Ddevpost%26logoColor%3Dblack" alt="CosmoHacks Finalist" />
-<p><strong>Finalist at CosmoHacks’25</strong> (GNDU, Amritsar) — Recognized for innovative problem solving.</p>
-</div>
-
-<!-- GitHub Stats Section -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-<!-- GitHub Stats Card -->
-<a href="https://www.google.com/search?q=https://github.com/Armaan582">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DArmaan582%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Armaanjot's Stats" height="180" />
-</a>
-
-<!-- Top Languages Card -->
-
-<a href="https://www.google.com/search?q=https://github.com/Armaan582">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DArmaan582%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" height="180" />
-</a>
-</div>
-
-<div align="center">
-<!-- Streak Stats -->
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DArmaan582%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="Streak Stats" width="85%" />
-</div>
-
-<!-- Connect Section -->
-
-<h2 align="center">🌐 Let's Connect</h2>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/armaanjot-singh-cse" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:armaanjots215@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-</div>
-
-<p align="center">
-<i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
