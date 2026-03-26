@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Armaanjot Singh  
-An aspiring Full Stack Web Developer passionate about building modern, responsive web applications.
+Frontend developer focused on crafting responsive, intuitive, and high-performance web experiences.
 
 # 💫 About Me:
-🔭 I’m currently working on building modern, responsive full stack web applications and improving my real-world project experience.<br><br>
-👯 I’m looking to collaborate on full stack web projects, open-source contributions, and developer-focused tools.<br><br>
-🤝 I’m looking for help with learning scalable backend architecture, system design fundamentals, and best practices in production-ready applications.<br><br>
+🔭 I’m currently focused on developing responsive and interactive web interfaces using modern frontend technologies.<br><br>
+👯 I’m open to collaborating on frontend projects, UI-focused applications, and open-source contributions.<br><br>
+🤝 I’m continuously improving my skills in React, component-based architecture, and modern UI/UX practices.<br><br>
 🌱 I’m currently learning advanced React patterns, backend development with Node.js & Express, and cloud deployment workflows.<br><br>
 💬 Ask me about JavaScript, React, frontend UI development, basic backend integration, and real-time web applications.<br><br>
 ⚡ Fun fact: I enjoy turning simple ideas into functional web products and constantly refining UI and performance.
